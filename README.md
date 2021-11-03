@@ -1,25 +1,28 @@
 #### clone
-`git clone https://github.com/YangJ0605/node-todo.git`
+  `git clone https://github.com/YangJ0605/node-todo.git`
 
 #### install dependencies
-`yarn`
+  `yarn`
 
 #### link
-`yarn link`
+  `yarn link`
 
 #### useage
-```shell
-c
-```
-    - list all feature
+- list all feature
+  
+  ```shell
+  c
+  ```
 
-```shell
-c clear
-```
-    - clear all 
+- clear all task
 
+  ```shell
+  c clear
+  ```
 
-```shell
-c add <tasks ...>
-```
-    - add tasks
+- add tasks
+
+  ```shell
+  c add <tasks ...>
+  ```
+  
